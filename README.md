@@ -1,7 +1,7 @@
 # 2026/3/19（木） 小嶋担当回
 
 ## 環境構築とデータダウンロード
-[こちら](https://github.com/shohei-kojima/ws260319/env_preparation.md)を参照し、事前に解析環境を構築し、使用するデータをダウンロードしてください。
+[こちら](https://github.com/shohei-kojima/ws260319/blob/main/env_preparation.md)を参照し、事前に解析環境を構築し、使用するデータをダウンロードしてください。
 
 
 ## ワークショップの内容（予定）
