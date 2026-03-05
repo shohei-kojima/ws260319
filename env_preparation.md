@@ -7,7 +7,8 @@
 ## 2. Conda環境の作成とソフトウェアのインストール
 
 ### Step A. Conda環境の作成
-以下のコマンドを 1行ずつ ターミナル (macOS) または Miniforge Prompt (Windows) に入力して実行してください。
+以下のコマンドを 1行ずつ ターミナル (macOS) または Miniforge Prompt (Windows) に入力して実行してください。  
+`ws260319`という名称の仮想環境が構築されます。  
 
 ```
 conda create -n ws260319 -c conda-forge r-base=4.5.2 python=3.10 -y
@@ -15,7 +16,7 @@ conda create -n ws260319 -c conda-forge r-base=4.5.2 python=3.10 -y
 
 ### Step B. 環境の有効化
 ```
-conda activate scworkshop
+conda activate ws260319
 ```
 
 ### Step C. パッケージのインストール（conda経由）
