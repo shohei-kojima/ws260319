@@ -45,7 +45,7 @@ q()  # Rを終了
 ```
 
 
-## データのダウンロード
+## 3. データのダウンロード
 [こちら](https://drive.google.com/drive/folders/10I3aYDWiSaxOxadoU083oYHCUUJQEwpF?usp=sharing)からどうぞ！  
 慶應義塾のGoogleアカウントからのみダウンロードできます。  
 以下の２つのファイルを手持ちのPCにダウンロードしてください。  
