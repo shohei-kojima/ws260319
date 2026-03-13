@@ -48,9 +48,13 @@ q()  # Rを終了
 ## 3. データのダウンロード
 [こちら](https://drive.google.com/drive/folders/10I3aYDWiSaxOxadoU083oYHCUUJQEwpF?usp=sharing)からどうぞ！  
 慶應義塾のGoogleアカウントからのみダウンロードできます。  
-以下の２つのファイルを手持ちのPCにダウンロードしてください。  
+以下の６つのファイルを手持ちのPCにダウンロードしてください。  
 - count_matrix.tsv
+- count_matrix_2.tsv
 - metadata.tsv
+- test_data_1.xlsx
+- test_data_2.tsv
+- test_data_2.csv
 
 
 ## 実習が終わったら
