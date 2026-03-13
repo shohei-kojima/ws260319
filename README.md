@@ -2,7 +2,7 @@
 
 ## 環境構築とデータダウンロード
 1. [こちら](https://github.com/shohei-kojima/ws260319/blob/main/env_preparation.md)を参照し、事前に解析環境を構築してください。
-2. [こちら](https://drive.google.com/drive/folders/10I3aYDWiSaxOxadoU083oYHCUUJQEwpF?usp=sharing)から、データを事前にダウンロードしてください。
+2. [こちら](https://drive.google.com/drive/folders/10I3aYDWiSaxOxadoU083oYHCUUJQEwpF?usp=sharing)から、データを事前にダウンロードしてください（慶應のGoogleアカウントのみアクセス可）。
 
 
 ## ワークショップの内容（内容を変更しました）
